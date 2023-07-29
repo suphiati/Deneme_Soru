@@ -2,7 +2,7 @@ package T120_VARIABLES_SCANNER;
 
 import java.util.Scanner;
 
-public class Soru_2 {
+public class Soru_2_double_Int_Alma {
     public static void main(String[] args) {
 
         // Soru 2- Kullanicidan bir double, bir de int sayi alip

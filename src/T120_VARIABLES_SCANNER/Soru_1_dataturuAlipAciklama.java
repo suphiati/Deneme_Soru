@@ -2,7 +2,7 @@ package T120_VARIABLES_SCANNER;
 
 import java.util.Scanner;
 
-public class Soru_1 {
+public class Soru_1_dataturuAlipAciklama {
     public static void main(String[] args) {
 
         //Soru 1- Kullanicidan uc farkli data turunde deger alip,

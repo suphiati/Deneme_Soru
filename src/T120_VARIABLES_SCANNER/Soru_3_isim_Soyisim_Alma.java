@@ -2,7 +2,7 @@ package T120_VARIABLES_SCANNER;
 
 import java.util.Scanner;
 
-public class Soru_3 {
+public class Soru_3_isim_Soyisim_Alma {
     public static void main(String[] args) {
 
         /*
@@ -23,8 +23,10 @@ public class Soru_3 {
         System.out.println("Lütfen yaşınızı giriniz: ");
         int yas= scanner.nextInt();
 
-        System.out.println("İsminiz: "+isim);
-        System.out.println("Soyisminiz: "+soyIsim);
+        //isim= isim.toUpperCase().charAt(0)+isim.substring(1).toLowerCase();
+       // soyIsim= soyIsim.toUpperCase().charAt(0)+soyIsim.substring(1).toLowerCase();
+        System.out.println("İsminiz: "+isim.toUpperCase().charAt(0)+isim.substring(1).toLowerCase());
+        System.out.println("Soyisminiz: "+soyIsim.toUpperCase().charAt(0)+soyIsim.substring(1).toLowerCase());
         System.out.println("Yaşınız: "+yas);
         System.out.println("Kaydınız başarıyla tamamlanmıştır.");
 
