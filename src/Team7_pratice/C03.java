@@ -1,4 +1,4 @@
-package Tema7_pratice;
+package Team7_pratice;
 
 public class C03 {
 
