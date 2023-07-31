@@ -8,6 +8,7 @@ public class Soru_5_gunYazdir {
         // Soru 5- Kullanicidan gun numarasini alip hafta ici veya hafta sonu yazdirin
 
         Scanner scanner= new Scanner(System.in);
+        System.out.println("Denemeeee");
 
     }
 }
